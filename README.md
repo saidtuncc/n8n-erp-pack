@@ -1,4 +1,4 @@
-# n8n ERP & Business Systems Integrations (Showcase)
+# n8n ERP & Business Systems Integrations
 
 Curated n8n workflows demonstrating ERP-adjacent integrations (order-to-cash, finance/accounting sync, CRM import, and ops notifications).
 
