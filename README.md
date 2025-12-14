@@ -13,11 +13,6 @@ Curated n8n workflows demonstrating ERP-adjacent integrations (order-to-cash, fi
 - `workflows/crm/` — CRM imports/sync (Excel → Salesforce)
 - `workflows/ops/` — operational notifications/last-mile hooks (WooCommerce, Onfleet)
 
-## Security checklist (before publishing)
-- Remove/replace any real domains, webhook paths, email addresses, IDs, and sample PII in workflow parameters.
-- Never commit `.env` files, API keys, tokens, or customer data exports.
-- Prefer placeholders: `{BASE_URL}`, `{COMPANY_ID}`, `{WEBHOOK_SECRET}`, `{CUSTOMER_EMAIL}`.
-
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/saidtunc/
 - GitHub: https://github.com/saidtuncc
